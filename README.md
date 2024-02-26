@@ -1,16 +1,33 @@
-### Hi there 👋
+<div>
+  <h1 align="left"> ¡Hello! I'm Daira ✦.° <img src="url_de_la_imagen" alt="Descripción de la imagen" width="100" height="100"></h1>
+</div>
 
-<!--
-**Daira360/Daira360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> UX/UI Designer && Develop Jr.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+
+### Proyecto 1: Nombre del Proyecto
+
+![Imagen del Proyecto](url_de_la_imagen)
+
+### Proyecto 2: Nombre del Proyecto
+
+![Imagen del Proyecto](url_de_la_imagen)
+
+## Tecnologías
+- HTML
+- CSS
+- JavaScript
+- React
+- Adobe XD
+- Figma
+
+## Contacto
+
+- LinkedIn: 
+- Sitio web:
+- Correo electrónico: 
+
+¡Gracias por visitar mi repositorio! No dudes en explorar mis proyectos y dejar comentarios o sugerencias.
